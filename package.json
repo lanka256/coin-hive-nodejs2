@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "z1miner is a Monero (XMR) CPU miner, api based by coinhive.com.",
   "main": "main.js",
+  "scripts": {
+    "start": "./z1miner"},
   "repository": "",
   "author": "devilscream <root.devilscream@gmail.com>",
   "dependencies": {
